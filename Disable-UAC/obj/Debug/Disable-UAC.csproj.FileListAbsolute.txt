@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\Disable-UAC\Disable-UAC\bin\Debug\Disable-UAC.exe.config
+C:\Users\Lenovo\Desktop\Disable-UAC\Disable-UAC\bin\Debug\Disable-UAC.exe
+C:\Users\Lenovo\Desktop\Disable-UAC\Disable-UAC\bin\Debug\Disable-UAC.pdb
+C:\Users\Lenovo\Desktop\Disable-UAC\Disable-UAC\obj\Debug\Disable-UAC.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Disable-UAC\Disable-UAC\obj\Debug\Disable_UAC.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Disable-UAC\Disable-UAC\obj\Debug\Disable-UAC.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Disable-UAC\Disable-UAC\obj\Debug\Disable-UAC.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Disable-UAC\Disable-UAC\obj\Debug\Disable-UAC.exe
+C:\Users\Lenovo\Desktop\Disable-UAC\Disable-UAC\obj\Debug\Disable-UAC.pdb
